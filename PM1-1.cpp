@@ -11,6 +11,7 @@ int main()
     std::cout << "Hello World!\n";
 std::cout<<"helllo PM world!\n";
 std::cout << "helllo PM world!\n";
+    std::cout << "helllo PM world!\n";
 }
 
 // プログラムの実行: Ctrl + F5 または [デバッグ] > [デバッグなしで開始] メニュー
