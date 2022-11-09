@@ -9,8 +9,8 @@ int main()
     std::cout << "Hello!\n";
 
     std::cout << "Hello World!\n";
-std::cout<<"helllo PM world!\n";
-std::cout << "helllo PM world!\n";
+    std::cout<<"helllo PM world!\n";
+    std::cout << "helllo PM world!\n";
     std::cout << "helllo PM world!\n";
 }
 
